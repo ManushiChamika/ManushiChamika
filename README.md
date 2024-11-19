@@ -88,7 +88,7 @@ Follow along as I code, learn, and grow! 💻🌟
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChiranjeewaPeellawatta&layout=compact&theme=tokyonight" height="180px" />
 </p> -->
 
----
+<!-- --- -->
 
 <!-- ### 📂 **Top Projects**
 <p align="center">
@@ -103,7 +103,7 @@ Follow along as I code, learn, and grow! 💻🌟
   </a>
 </p> -->
 
----
+<!-- --- -->
 
 <!-- ### 🔥 **Contribution Graph**
 <p align="center">
@@ -112,7 +112,7 @@ Follow along as I code, learn, and grow! 💻🌟
   </a>
 </p> -->
 
----
+<!-- --- -->
 
 ### 
 ✨ Let’s Create Something Extraordinary Together!
