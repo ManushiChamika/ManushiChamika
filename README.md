@@ -51,10 +51,6 @@ Follow along as I code, learn, and grow! 💻🌟
   <img src="https://img.shields.io/badge/DEV_C++-3C3F5D?style=for-the-badge&logo=dev-c&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/CodeBlocks-000000?style=for-the-badge&logo=codeblocks&logoColor=white" />
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kompozer-0055A4?style=for-the-badge&logo=kompozer&logoColor=white" />
-  <img src="https://img.shields.io/badge/CoffeeCup-006F82?style=for-the-badge&logo=coffee-cup&logoColor=white" />
   <img src="https://img.shields.io/badge/Wireshark-1679A1?style=for-the-badge&logo=wireshark&logoColor=white" />
 </p>
 
