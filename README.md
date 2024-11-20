@@ -1,16 +1,5 @@
 💡 _"Code. Learn. Build. Innovate."_  
 
----
-
-### 🏆 **GitHub Trophies**
-<p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ChiranjeewaPeellawatta&theme=gruvbox&column=7" alt="GitHub Trophies" />
-  </a> 
-</p>
-
----
-
 ### 🌐 **Connect with Me**
 <p align="center">
   <a href="https://www.linkedin.com/in/manushi-katipearachchi-b8481627a/">
