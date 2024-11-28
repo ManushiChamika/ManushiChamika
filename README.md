@@ -1,6 +1,8 @@
 💡 _"Code. Learn. Build. Innovate."_  
 
-Hello
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=ManushiChamika&label=Visitor%20Count&icon=5&pretty=true" alt="Visitor Count">
+</p>
 
 ### 🌐 **Connect with Me**
 <p align="center">
@@ -10,6 +12,10 @@ Hello
 </p>
 
 ---
+
+# 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ManushiChamika&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 
 ### 🤔 **About Me**
 Hi there!
@@ -67,12 +73,14 @@ Follow along as I code, learn, and grow! 💻🌟
 </p>
 
 ---
-<!-- 
-### 📊 **GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChiranjeewaPeellawatta&show_icons=true&theme=tokyonight" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChiranjeewaPeellawatta&layout=compact&theme=tokyonight" height="180px" />
-</p> -->
+
+# 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=ManushiChamika&hide_border=false&theme=dark)&nbsp;
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManushiChamika&layout=compact&theme=dark)
+![Manushi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManushiChamika&show_icons=true&theme=dark)
+
+---
+
 
 <!-- --- -->
 
@@ -91,14 +99,14 @@ Follow along as I code, learn, and grow! 💻🌟
 
 <!-- --- -->
 
-<!-- ### 🔥 **Contribution Graph**
+ ### 🔥 **Contribution Graph**
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChiranjeewaPeellawatta&theme=tokyo-night" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ManushiChamika&theme=merko" />
   </a>
-</p> -->
+</p>
 
-<!-- --- -->
+---
 
 ### 
 ✨ Let’s Create Something Extraordinary Together!
