@@ -1,8 +1,5 @@
 💡 _"Code. Learn. Build. Innovate."_  
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=ManushiChamika&label=Visitor%20Count&icon=5&pretty=true" alt="Visitor Count">
-</p>
 
 ### 🌐 **Connect with Me**
 <p align="center">
