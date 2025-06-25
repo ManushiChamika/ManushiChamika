@@ -17,15 +17,12 @@
 ### 🤔 **About Me**
 Hi there!
 I’m Manushi Chamika Katipearachchi, a dedicated Data Science undergraduate from Sri Lanka! 🎓
-While I’m still in the early stages of exploring data science, my current focus is diving deep into full-stack development with the MERN stack. I love the process of learning new coding skills and bringing creative ideas to life through technology.
+I love the process of learning new coding skills and bringing creative ideas to life through technology.
 
 As I continue my journey, I’m excited to discover how my full-stack expertise will integrate with data science, bridging the gap between impactful data insights and user-friendly applications.
 
 Follow along as I code, learn, and grow! 💻🌟
 
-- 🔭 Currently Working On: MERN
-- 🌱 Advanced React, Node.js, MongoDB, PHP, MySQL
-- 🧠 Fun Fact: I’m a music enthusiast who finds inspiration in Spotify playlists—always curious, always learning, and always in tune with the rhythm of life! 🎵
 
 ---
 
