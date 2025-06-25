@@ -16,7 +16,7 @@
 
 ### 🤔 **About Me**
 Hi there!
-I’m Manushi Chamika Katipearachchi, a dedicated Data Science undergraduate from Sri Lanka! 🎓
+I’m Manushi Katipearachchi, a dedicated Data Science undergraduate from Sri Lanka! 🎓
 I love the process of learning new coding skills and bringing creative ideas to life through technology.
 
 As I continue my journey, I’m excited to discover how my full-stack expertise will integrate with data science, bridging the gap between impactful data insights and user-friendly applications.
