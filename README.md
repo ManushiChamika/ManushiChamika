@@ -94,7 +94,7 @@
     ## 🔥 GitHub Streak Stats
 
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ManushiChamika&theme=radical&hide_border=true&background=0f172a&stroke=7C3AED&ring=6366F1&fire=6366F1&currStreakLabel=cbd5e1)
-  ``
+  
 
   </div>
   
