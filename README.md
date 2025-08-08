@@ -90,11 +90,6 @@
     <div style="background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%); border-radius: 15px; padding: 20px; box-shadow: 0 8px 16px rgba(0,0,0,0.3);">
       <img src="https://github-readme-stats.vercel.app/api?username=ManushiChamika&show_icons=true&theme=radical&hide_border=true&bg_color=0f172a&title_color=7C3AED&icon_color=6366F1&text_color=cbd5e1" alt="GitHub Stats" />
     </div>
-    
-    ## 🔥 GitHub Streak Stats
-
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ManushiChamika&theme=radical&hide_border=true&background=0f172a&stroke=7C3AED&ring=6366F1&fire=6366F1&currStreakLabel=cbd5e1)
-  
 
   </div>
   
