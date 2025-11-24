@@ -1,11 +1,16 @@
 <!--- A B O U T   M E --->
 
-#  Hello, I'm **Manushi**
+<h1 align="center">Hello, I'm <strong>Manushi</strong> 👋</h1>
 
-### Third-Year Data Science Undergraduate  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ManushiChamika/ManushiChamika/main/giffy.gif" width="600" />
+</p>
 
-I’m passionate about building intelligent systems, exploring modern AI, and solving real-world problems through data.  
-My interests revolve around **Machine Learning, Large Language Models (LLMs), RAG, Data Engineering,** and deploying practical AI solutions.
+### Third-Year Data Science Undergraduate
+
+
+**I build AI-powered systems that mix Machine Learning, LLMs, RAG, and Data Engineering with a bit of creativity along the way.**
+
 
 
 ## Connect with Me
