@@ -1,17 +1,19 @@
 <!--- A B O U T   M E --->
 
 <h1 align="center">Hello, I'm <strong>Manushi</strong> 👋</h1>
+<br/>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ManushiChamika/ManushiChamika/main/giffy.gif" width="600" />
+  <img src="https://raw.githubusercontent.com/ManushiChamika/ManushiChamika/main/giffy.gif" width="490" />
 </p>
+<br/>
 
 ### Third-Year Data Science Undergraduate
 
 
 **I build AI-powered systems that mix Machine Learning, LLMs, RAG, and Data Engineering with a bit of creativity along the way.**
 
-
+<br/>
 
 ## Connect with Me
 
@@ -20,7 +22,7 @@
 [![LinkedIn](https://img.icons8.com/fluency/48/linkedin.png)](https://www.linkedin.com/in/manushi-katipearachchi-b8481627a/)
 [![Email](https://img.icons8.com/fluency/48/mail.png)](mailto:mckettipearachchi@gmail.com)
 
-
+<br/>
 <!--- L A N G U A G E S   &   T O O L S --->
 
 <h2 align="center">⚙️ Languages • Frameworks • Tools</h2>
