@@ -1,7 +1,10 @@
 <!--- P R O F I L E   V I E W S   C O U N T E R S --->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ManushiChamika&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+<br />
 
-<img align="right" src="https://komarev.com/ghpvc/?username=ManushiChamika&label=Profile%20views&color=0e75b6&style=flat" />
-
+  
 <!--- P R O F I L E   B A N N E R --->
 <p align="center">
   <a href="https://ManushiChamika.github.io">
