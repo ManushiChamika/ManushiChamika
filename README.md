@@ -8,7 +8,7 @@
 <!--- P R O F I L E   B A N N E R --->
 <p align="center">
   <a href="https://ManushiChamika.github.io">
-    <img width="80%" alt="Hello, I'm Manushi , a datascience undergraduate!" src="./assets-readme/ezgif-870a46dcafec5677.gif" />
+    <img width="80%" alt="Hello, I'm Manushi , a datascience undergraduate!" src="./assets-readme/banner.png" />
   </a>
 </p>
 
