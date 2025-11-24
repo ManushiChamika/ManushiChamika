@@ -1,6 +1,6 @@
 <!--- A B O U T   M E --->
 
-<h1 align="center">Hello, I'm <strong>Manushi</strong> 👋</h1>
+<h1 align="center">Hello, I'm <strong>Manushi</strong> ♡</h1>
 <br/>
 
 <p align="center">
@@ -15,7 +15,7 @@
 
 <br/>
 
-## Connect with Me
+## Connect with Me ♡
 
 [![Instagram](https://img.icons8.com/fluency/48/instagram-new.png)](https://www.instagram.com/_mxnushi_/)
 [![Facebook](https://img.icons8.com/fluency/48/facebook-new.png)](https://www.facebook.com/profile.php?id=100092984103364)
@@ -25,7 +25,7 @@
 <br/>
 <!--- L A N G U A G E S   &   T O O L S --->
 
-<h2 align="center">⚙️ Languages • Frameworks • Tools</h2>
+<h2 align="center"> Languages • Frameworks • Tools</h2>
 <br>
 
 <p align="center">
@@ -38,14 +38,14 @@
 
 <br/>
 
-<h2 align="center">Thanks for Visiting! ❤️</h2>
+<h2 align="center">♡♡ Thanks for Visiting! ♡♡</h2>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ManushiChamika/ManushiChamika/main/assets-readme/cat-wave.gif" width="120" alt="Waving Cat" />
 </p>
 
 <p align="center">
-  <b>📬 Open to collaboration, opportunities, and innovative AI projects.</b><br/>
+  <b>Open to collaboration, opportunities, and innovative AI projects.</b><br/>
   <i>Let’s build something amazing together!</i>
 </p>
 
