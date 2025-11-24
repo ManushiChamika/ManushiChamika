@@ -76,15 +76,20 @@
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ManushiChamika&show_icons=true&theme=react&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ManushiChamika&theme=react&hide_border=true" />
+
+  <!-- Main Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ManushiChamika&show_icons=true&theme=react&hide_border=true" height="180" />
+
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ManushiChamika&theme=react&hide_border=true" height="180" />
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManushiChamika&layout=compact&theme=react&hide_border=true" height="180" />
+
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManushiChamika&layout=compact&theme=react&hide_border=true" />
-</p>
+<br/>
 
-<br />
 
 <!--- G I T H U B   T R O P H Y --->
 
