@@ -92,12 +92,12 @@
 <br>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ManushiChamika&theme=algolia&no-frame=true" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=ManushiChamika&theme=algolia&no-frame=true&row=1&column=6&margin-w=10&margin-h=10" />
 </p>
 
-<br />
+<br/>
+
+
 
 <!--- G I T H U B   C O N T R I B U T I O N   G R A P H --->
 
